@@ -1,0 +1,75 @@
+ID,Glottocode,Language,Subgroup,Form,Type,Locus,Function
+ID001,bori1243,Adi,Macro-Tani,-me,suffix,standard,dative
+ID002,bori1243,Adi,Macro-Tani,ya-,prefix,verb,more p. 128 yaŋ proto tani see Sun 1993
+ID001,apat1240,Apatani,Macro-Tani,-mi,suffix,standard,"accusative/dative, 135"
+ID002,apat1240,Apatani,Macro-Tani,ya-,prefix,verb,"135, proto tani see Sun 1993"
+ID003,aton1241,Atong,Brahmaputran,-na,suffix,standard,goal
+ID004,aton1241,Atong,Brahmaputran,-khal,suffix,parameter,"More p.99, Burling, Robbins. 2003. The Language of the Modhupur Mandi (Garo) 3.342-II:idx"
+ID005,gahr1239,Bunan,Bodic,-tok,suffix,standard,"dative, 327"
+ID006,gahr1239,Bunan,Bodic,-tci,suffix,standard,"ablative, 327"
+ID007,chhi1245,Chintang,Himalayish,-?,suffix,standard,"locative, 50"
+ID008,chhi1245,Chintang,Himalayish,-ya,suffix,standard,"ablative, 50"
+ID009,chot1239,Chote,Brahmaputran,-na,suffix,comparee,nominative
+ID010,chot1239,Chote,Brahmaputran,-tre,suffix,standard,"Sub adv clause, see p. 271"
+ID011,chot1239,Chote,Brahmaputran,-he,suffix,parameter,"Means excessive, p. 215"
+ID012,daai1236,Daai Chin,Kuki-Chin-Naga,kthak,particle,pre parameter,NA 114
+ID002,galo1242,Galo,Macro-Tani,-jaa,suffix,parameter,"Generic intensifier, more stedt, proto tani see Sun 1993"
+ID013,galo1242,Galo,Macro-Tani,-әәm,suffix,standard,accusative
+ID004,garo1247,Garo,Brahmaputran,-kal,suffix,standard,"more, Burling, Robbins. 2003. The Language of the Modhupur Mandi (Garo), 3.348-II:idx"
+ID004,garo1247,Garo,Brahmaputran,-kal,suffix,parameter,"more, Burling, Robbins. 2003. The Language of the Modhupur Mandi (Garo), 3.348-II:idx"
+ID003,garo1247,Garo,Brahmaputran,-na,suffix,standard,"dative + STANDARD, 19"
+ID014,garo1247,Garo,Brahmaputran,-ba-te,suffix,standard,As compared to p. 46
+ID015,geba1237,Geba Karen,Karenic,-doli,suffix,parameter,"95, SUFFIX, Manson, Ken. 2010. Kayan-English/English-Kayan dictionary. (unpublished ms. contributed to STEDT). Accessed via STEDT database <http://stedt.berkeley.edu/search/> on 2020-06-30."
+ID016,anuu1241,Hkongso,Mruic,tsai,suffix,comparee,"top, 118"
+ID017,anuu1241,Hkongso,Mruic,luki,particle,post standard,"Homophonous with `side’ temporal locative, wright p. 66 luk˦˨ temporal/locative ‘side’. Also means more, see example pag 34 la luk month more, next month"
+ID024,inpu1234,Inpui Naga,Kuki-Chin-Naga,-dom,suffix,parameter,NA
+ID019,kado1242,Kadu,Brahmaputran,-ka,suffix,comparee,top
+ID020,kado1242,Kadu,Brahmaputran,atha,clitic,standard,"Phot means more/again with verbs, although few occurrencies. Atha p.331, obligatory particle in comparatives."
+ID021,karb1241,Karbi,Kuki-Chin-Naga,-phan,suffix,standard,Non subject p. 454
+ID022,karb1241,Karbi,Kuki-Chin-Naga,-mu,suffix,parameter,NA 454
+ID023,brek1238,Kayah Monu,Karenic,khlu,particle,post parameter,"23, ADV, Kayan Pekon, more (Manson, Ken. 2010. Kayan-English/English-Kayan dictionary. (unpublished ms. contributed to STEDT). Accessed via STEDT database <http://stedt.berkeley.edu/search/> on 2020-06-30."
+ID024,khar1288,Kharam Naga,Kuki-Chin-Naga,-det,suffix,parameter,NA further example p.139
+ID024,koir1240,Koireng,Kuki-Chin-Naga,-ded,suffix,parameter,NA
+ID024,komi1270,Kom,Kuki-Chin-Naga,-det,suffix,parameter,"NA, 136"
+ID025,kony1248,Konyak,Brahmaputran,si-,prefix,parameter,Cannot find any occurrency anywhere else 76
+ID026,kony1248,Konyak,Brahmaputran,-ya,suffix,comparee,nominative 155
+ID027,kony1248,Konyak,Brahmaputran,-pai,suffix,standard,comitative/instrumental/obj 155
+ID028,maon1238,Mao Naga,Kuki-Chin-Naga,zhu,particle,post parameter,rather (p.206)
+ID029,maon1238,Mao Naga,Kuki-Chin-Naga,hi-,prefix,verb,"NA, maybe like chote?"
+ID030,diga1241,Mishmi,Digarish,-we,suffix,comparee,"nominative-fix, 100"
+ID031,diga1241,Mishmi,Digarish,-li,suffix,standard,"than, 100"
+ID032,diga1241,Mishmi,Digarish,-yo,suffix,parameter,"proto tani see Sun 1993, 100"
+ID002,misi1242,Mising,Macro-Tani,-ya,suffix,parameter,"proto tani see Sun 1993, 73"
+ID033,misi1242,Mising,Macro-Tani,penam,particle,post standard,No info on this marker. I suspect it is not a SM 73
+ID034,aona1235,Mongsen Ao,Kuki-Chin-Naga,than,suffix,standard,"comitative, 261"
+ID035,moyo1238,Moyon,Kuki-Chin-Naga,hak,particle,post parameter,"p. 83 says associative, also together p.84, 174"
+ID017,mruu1242,Mru,Mruic,lake,particle,post standard,"Language closedly related to Hkongso, might be worth having a look at other meanings too"
+ID036,mruu1242,Mru,Mruic,lang,particle,pre parameter,"Different p. 9, 17"
+ID037,sing1264,Northern Jingpaw,Brahmaputran,-i,suffix,comparee,agentive 295
+ID051,sing1264,Northern Jingpaw,Brahmaputran,ngga,particle,standard,more’ 299
+ID038,phom1236,Phom Naga,Brahmaputran,-ma (with schwa),suffix,standard,comitative?
+ID051,phom1236,Phom Naga,Brahmaputran,nike,particle,parameter,`more’ 
+ID039,puru1266,Purum,Kuki-Chin-Naga,-nim,suffix,comparee,nominative 74
+ID003,rabh1238,Rabha,Brahmaputran,-na,suffix,standard,dative 360
+ID041,rabh1238,Rabha,Brahmaputran,kara,particle,pre parameter,above p. 762 check dative
+ID042,rawa1264,Raji,Raji-Raute,jamma,particle,pre parameter,p. 84 also plural marker!
+ID043,simt1238,Simte,Kuki-Chin-Naga,-cuh,suffix,comparee,determiner 116
+ID044,simt1238,Simte,Kuki-Chin-Naga,sanin,particle,pre parameter,"Sub adv clause, p. 130, 116"
+ID045,simt1238,Simte,Kuki-Chin-Naga,-jaw,suffix,parameter,NA 116
+ID002,tang1377,Tangam,Macro-Tani,-yaŋ,suffix,parameter,"more p. 128 yaŋ proto tani see Sun 1993, 128"
+ID046,tang1377,Tangam,Macro-Tani,-me,suffix,standard,"nagn, 128"
+ID047,anga1288,Tenidye,Kuki-Chin-Naga,-kuo,suffix,parameter,"NA, p. 117"
+ID048,yakk1236,Yakkha,Himalayish,haksaŋ,particle,pre parameter,"327, p. 145 schackow: The comparative markers can attach to
+all kinds of hosts, even to verbs. Etymologically they must have been converbal
+forms, since Yakkha has the converbal and adverbial clause linkage markers
+-saŋ and =niŋ, both indicating cotemporality. The structure of the Yakkha comparative
+markers could be calqued upon the structure of the Nepali comparative
+marker bhanda, which is a converbal form of the verb bhannu ‘to say’. The identity
+of a possible verbal stem hak in Yakkha, however, could not be determined.
+Synchronically, the meaning of ‘compare’ is expressed by a complex verb themnima.
+A likely candidate could be the verbal stem haks, which basically means
+‘send/send up’, but is also used with the meaning ‘weigh’."
+ID049,nucl1310,Burmese,Burmo-Qiangic,-hte?,suffix,standard,"over’, Stassen p.126"
+ID050,tang1336,Tangkhul,Kuki-Chin-Naga,-ki,suffix,standard,"on, stassen 1985:147"
+ID052,suan1234,Suansu,Kuki-Chin-Naga,-di,suffix,standard,Direct object/nom
+ID053,suan1234,Suansu,Kuki-Chin-Naga,men,particle,parasmeter,`more’
